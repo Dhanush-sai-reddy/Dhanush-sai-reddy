@@ -1,7 +1,7 @@
 # Hi there, I'm Dhanush Sai Reddy! 👋
 
 <p align="center">
-  <img src="https://media.tenor.com/images/15f69c5e626779435b62b168f121287c/tenor.gif" width="100%" alt="Coding Gif">
+  <img src="https://i.gifer.com/7E2w.gif" width="100%" alt="Coding Gif">
 </p>
 
 ### 🚀 Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
