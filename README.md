@@ -1,7 +1,7 @@
 # Hi there, I'm Dhanush Sai Reddy! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0MGI5ZDIzMzY2YjI4YjI5YjI5YjI5YjI5YjI5YjI5YjI5YjI5YjI5/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Coding Gif">
 </p>
 
 ### 🚀 Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
