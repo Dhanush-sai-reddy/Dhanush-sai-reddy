@@ -76,12 +76,9 @@ I'm a Computer Science student at **IIIT Pune**, passionate about democratizing 
 
 ---
 
-## Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush-sai-reddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhanush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-sai-reddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-sai-reddy&theme=github-dark)
 
 ---
 
