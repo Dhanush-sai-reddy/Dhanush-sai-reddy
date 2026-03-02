@@ -1,16 +1,13 @@
 # Hi there, I'm Dhanush Sai Reddy! 👋
 
-<p align="center">
-  <img src="https://media.tenor.com/images/8643501a4e16ff66a42207038fc1ae33/tenor.gif" width="100%" alt="Coding Gif">
-</p>
 
-### 🚀 Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
+###  Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
 
-I'm a Computer Science student at **IIIT Pune**, passionate about democratizing AI through decentralized architectures and privacy-preserving on-device intelligence. I build systems that live at the intersection of **Systems Engineering** and **AI Research**, focusing on performance, scalability, and user agency.
+I'm a Computer Science student at **IIIT Pune**, passionate about democratizing AI through decentralized architectures and privacy-preserving on-device intelligence. I build systems that live at the intersection of **Systems Engineering** and **AI **, focusing on performance, scalability, and user agency.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,33 +42,33 @@ I'm a Computer Science student at **IIIT Pune**, passionate about democratizing 
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🧠 [FedLearn Nexus](https://github.com/Dhanush-sai-reddy/fl-fullstack)
+###  [FedLearn Nexus](https://github.com/Dhanush-sai-reddy/fl-fullstack)
 **Decentralized AI Orchestration System**
 *   **What it is**: A browser-based platform for privacy-preserving Federated Learning.
 *   **Key Tech**: WebGPU, Python (FastAPI), React 19, BroadcastChannel API, PostgreSQL.
 *   **Highlight**: Implemented Weighted FedAvg with in-place tensor operations and a self-deployed MCP (Model Context Protocol).
 
-### 🤖 [LocalLLM](https://github.com/Dhanush-sai-reddy/llm-runtime-local)
+###  [LocalLLM](https://github.com/Dhanush-sai-reddy/llm-runtime-local)
 **Offline RAG & Agentic Runtime**
 *   **What it is**: An offline-first runtime for running agentic flows with Gemma 3 and Qwen 2.5-VL.
 *   **Key Tech**: LangGraph, Jina CLIP, ChromaDB, Milvus, Semantic Router.
 *   **Highlight**: Features a Unified Multimedia RAG pipeline for video, image, audio, text search  and more
 
-### 🏛️ [Campus resource management system](https://github.com/Dhanush-sai-reddy/hackoverflow)
+###  [Campus resource management system](https://github.com/Dhanush-sai-reddy/hackoverflow)
 **Unified Campus Resource Management**
 *   **What it is**: A microservices-based system for scheduling resoruces and events.
 *   **Key Tech**: Golang (Fiber), Node.js, PostgreSQL, Interval Trees.
 *   **Highlight**: Optimized conflict detection using **Partitioned Interval Trees** to handle 500+ overlapping queries in <10ms.
 
-### � [FlowChat (Klymo)](https://github.com/Dhanush-sai-reddy/flowchat)
+###  [FlowChat (Klymo)](https://github.com/Dhanush-sai-reddy/flowchat)
 **Anonymous Video Chat with AI Safety**
 *   **What it is**: A secure omegle-style chat with gender verification.
 *   **Key Tech**: Redis (Sorted Sets), Python (ViT), FaceAPI.js, FingerprintJS.
 *   **Highlight**: **Hybrid Verification System** (Server-side AI + Client-side Fallback) and **Karma-Weighted Priority Queues** for ban enforcement.
 
-### 🚄 [RailRover](https://github.com/Dhanush-sai-reddy/Train-Ticket-booking-system)
+### [RailRover](https://github.com/Dhanush-sai-reddy/Train-Ticket-booking-system)
 **High-Throughput Booking System**
 *   **What it is**: A railway booking platform capable of handling massive load.
 *   **Key Tech**: Kafka, RabbitMQ, TimescaleDB, Microservices.
@@ -79,16 +76,16 @@ I'm a Computer Science student at **IIIT Pune**, passionate about democratizing 
 
 ---
 
-## � Stats
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush-sai-reddy&show_icons=true&theme=tokyonight" alt="Dhanush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-sai-reddy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush-sai-reddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhanush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-sai-reddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## � Connect with me
+## Connect with me
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-sai-reddy-d)
 *   [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Dhanushsaireddy144)
