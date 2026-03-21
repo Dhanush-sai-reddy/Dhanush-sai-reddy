@@ -1,4 +1,4 @@
-# Hi there, I'm Dhanush Sai Reddy! 👋
+# Hi there, I'm Dhanush Sai Reddy! 
 
 
 ###  Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
@@ -91,5 +91,5 @@ I'm a Computer Science student at **IIIT Pune**, passionate about democratizing 
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Dhanush-sai-reddy">Dhanush Sai Reddy</a>
+  Generated with  by <a href="https://github.com/Dhanush-sai-reddy">Dhanush Sai Reddy</a>
 </p>
