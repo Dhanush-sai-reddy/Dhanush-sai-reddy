@@ -1,0 +1,4 @@
+frames/
+.env
+__pycache__/
+*.pyc
