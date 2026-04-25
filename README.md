@@ -1,5 +1,12 @@
 # Hi there, I'm Dhanush Sai Reddy! 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
+    <img alt="Terminal GIF" src="./output.gif">
+  </picture>
+</p>
 
 ###  Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
 
@@ -78,7 +85,9 @@ I'm a Computer Science student at **IIIT Pune**, passionate about democratizing 
 
 ## GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-sai-reddy&theme=github-dark)
+<p align="center">
+  <img src="https://github.com/Dhanush-sai-reddy/Dhanush-sai-reddy/blob/main/metrics.plugin.isocalendar.svg" alt="Isometric Contributions">
+</p>
 
 ---
 
