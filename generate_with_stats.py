@@ -22,7 +22,7 @@ import requests
 USERNAME = (
     os.environ.get("GITHUB_REPOSITORY_OWNER")
     or os.environ.get("GIT_USERNAME")
-    or "dbuzatto"
+    or "Dhanush-sai-reddy"
 )
 
 # Function to fetch real number of repos
@@ -35,18 +35,22 @@ def get_total_repos(username):
         pass
     return None
 
-# Try to fetch GitHub statistics
-try:
-    github_stats = gifos.utils.fetch_github_stats(user_name=USERNAME)
-    has_stats = github_stats is not None
-    if not has_stats:
-        print("Warning: Could not fetch GitHub stats")
-        print("Configure GITHUB_TOKEN in .env file")
-except Exception as e:
-    print(f"Warning: Error fetching GitHub stats: {e}")
-    print("Using example data...")
-    has_stats = False
-    github_stats = None
+# Try to fetch GitHub statistics (requires GITHUB_TOKEN env var)
+token = os.environ.get("GITHUB_TOKEN")
+has_stats = False
+github_stats = None
+
+if token:
+    try:
+        github_stats = gifos.utils.fetch_github_stats(user_name=USERNAME)
+        has_stats = github_stats is not None
+        if not has_stats:
+            print("Warning: Could not fetch GitHub stats")
+    except Exception as e:
+        print(f"Warning: Error fetching GitHub stats: {e}")
+        print("Continuing without stats...")
+else:
+    print("No GITHUB_TOKEN set, skipping stats fetch. Skills-only GIF will be generated.")
 
 # Fetch real number of repos
 total_repos = get_total_repos(USERNAME)

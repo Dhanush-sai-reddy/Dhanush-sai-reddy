@@ -8,9 +8,7 @@
   </picture>
 </p>
 
-###  Full Stack AI Engineer | Decentralized Systems & Privacy Enthusiast
-
-I'm a Computer Science student at **IIIT Pune**, passionate about democratizing AI through decentralized architectures and privacy-preserving on-device intelligence. I build systems that live at the intersection of **Systems Engineering** and **AI **, focusing on performance, scalability, and user agency.
+CS @ IIIT Pune. I build backend systems, distributed infra, and love to interact with the Hugging Face ecosystem.
 
 ---
 
