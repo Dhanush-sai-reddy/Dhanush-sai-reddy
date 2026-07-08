@@ -132,10 +132,10 @@ t.clone_frame(3)
 
 skills = [
     ("\x1b[94mLanguages:\x1b[0m   ", "Python, Go, TypeScript, C++, SQL"),
-    ("\x1b[94mAI & ML:\x1b[0m     ", "PyTorch, LangChain, WebGPU, Hugging Face"),
-    ("\x1b[94mFrameworks:\x1b[0m  ", "FastAPI, React, Next.js, Node.js"),
-    ("\x1b[94mDatabases:\x1b[0m   ", "PostgreSQL, Redis, Milvus, ChromaDB"),
-    ("\x1b[94mSystems:\x1b[0m     ", "Kafka, RabbitMQ, Docker, WebRTC"),
+    ("\x1b[94mAI & ML:\x1b[0m     ", "PyTorch, Langraph WebGPU, Hugging Face"),
+    ("\x1b[94mFrameworks:\x1b[0m  ", "FastAPI, React, Express, Node.js"),
+    ("\x1b[94mDatabases:\x1b[0m   ", "PostgreSQL, Redis, MongoDB, ChromaDB"),
+    ("\x1b[94mSystems:\x1b[0m     ", "Kafka, Docker, GRPC"),
 ]
 
 for i, (label, value) in enumerate(skills):
