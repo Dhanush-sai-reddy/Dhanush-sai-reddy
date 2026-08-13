@@ -47,7 +47,7 @@ ConvertAnsiEscape.ANSI_ESCAPE_MAP_TXT_COLOR.update({
 USERNAME = (
     os.environ.get("GITHUB_REPOSITORY_OWNER")
     or os.environ.get("GIT_USERNAME")
-    or "dbuzatto"
+    or "Dhanush-sai-reddy"
 )
 
 # ---- Layout constants ----
